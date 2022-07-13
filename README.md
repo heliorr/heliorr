@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Helio SOuza</h1>
+<h1 align="center">Hi 👋, I'm Helio Souza</h1>
 <h3 align="center">I live in Petrolina, a small town in Pernambuco, Brazil. I'm currently student at Trybe, in the Development Software. With knowledge in front-end using react js, redux and developing tests of applications with jest. I’m currently learning Back-End with SQL, NodeJs, TypeScript MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heliorr&label=Profile%20views&color=0e75b6&style=flat" alt="heliorr" /> </p>
